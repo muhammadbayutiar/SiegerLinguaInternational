@@ -1,0 +1,7 @@
+# robots.txt for Sieger Lingua International
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://siegerlinguainternational.com/sitemap.xml

@@ -1,0 +1,119 @@
+================================================================================
+   UPLOAD SIEGER LINGUA INTERNATIONAL KE GITHUB
+================================================================================
+
+REPOSITORY SUDAH SIAP!
+URL: https://github.com/muhammadbayutiar/SiegerLinguaInternational.git
+
+================================================================================
+   CARA PALING MUDAH (2 MENIT)
+================================================================================
+
+STEP 1: Double-click file ini
+        ↓
+        "upload-now.bat"
+        ↓
+STEP 2: Press Enter saat diminta
+        ↓
+STEP 3: Login ke GitHub (via browser atau terminal)
+        ↓
+STEP 4: Wait sampai selesai (1-2 menit)
+        ↓
+STEP 5: ✅ DONE! Check di GitHub
+
+================================================================================
+   ATAU MANUAL VIA TERMINAL
+================================================================================
+
+Buka PowerShell/Command Prompt di folder C:\Website\SLI
+
+Jalankan commands ini satu per satu:
+
+1. git add .
+
+2. git commit -m "Upload Sieger Lingua International website"
+
+3. git remote add origin https://github.com/muhammadbayutiar/SiegerLinguaInternational.git
+
+4. git pull origin main --allow-unrelated-histories
+
+5. git push -u origin main
+
+Login saat diminta!
+
+================================================================================
+   AUTHENTICATION
+================================================================================
+
+Saat push, Anda akan diminta:
+
+Via Browser (Mudah):
+→ Pop-up akan muncul
+→ Klik "Sign in with browser"  
+→ Login di browser
+→ ✅ Done!
+
+Via Command Line:
+→ Username: muhammadbayutiar
+→ Password: [Personal Access Token]
+
+Cara buat Token:
+1. GitHub → Settings → Developer Settings
+2. Personal Access Tokens → Generate new token
+3. Scopes: ✓ repo
+4. Generate dan COPY
+5. Gunakan sebagai password
+
+================================================================================
+   VERIFY UPLOAD
+================================================================================
+
+Setelah selesai, buka:
+https://github.com/muhammadbayutiar/SiegerLinguaInternational
+
+Check files:
+✓ index.html
+✓ styles.css
+✓ script.js
+✓ images/
+✓ Dan semua file lainnya
+
+Jika semua ada → ✅ SUCCESS!
+
+================================================================================
+   NEXT: DEPLOY KE VERCEL
+================================================================================
+
+1. Buka: https://vercel.com/new
+
+2. Login dengan GitHub: muhammadbayutiar
+
+3. Import Repository: SiegerLinguaInternational
+
+4. Deploy (biarkan default settings)
+
+5. Wait 2-3 menit
+
+6. ✅ Website LIVE!
+
+================================================================================
+   FILES BANTUAN
+================================================================================
+
+📄 UPLOAD_INSTRUKSI.md      ← Panduan lengkap detail
+🤖 upload-now.bat            ← Script otomatis (double-click ini!)
+📋 START_HERE.md             ← Quick start guide
+📘 README_UPLOAD_GITHUB.md   ← Cara-cara alternative
+
+================================================================================
+   READY? MULAI SEKARANG!
+================================================================================
+
+1. Double-click: upload-now.bat
+   ATAU
+2. Run manual commands di terminal
+
+Estimated time: 2-5 menit
+Good luck! 🚀
+
+================================================================================

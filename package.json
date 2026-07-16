@@ -1,0 +1,19 @@
+{
+  "name": "sieger-lingua-international",
+  "version": "1.0.0",
+  "description": "Website resmi Sieger Lingua International - Lembaga pelatihan bahasa Jerman profesional",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Open index.html in your browser'",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "sieger-lingua",
+    "bahasa-jerman",
+    "kursus-jerman",
+    "belajar-jerman",
+    "kerja-di-jerman"
+  ],
+  "author": "Sieger Lingua International",
+  "license": "ISC"
+}
